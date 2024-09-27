@@ -148,10 +148,15 @@ h1{
     padding-bottom: 20%;
     
 }
-.Search {
-border: ridge;
-background-color: none;
+#categories-container {
+    width: 70%;
 }
-.Search input{
-    border: none;
+button {
+    margin-top: 5%;
+    padding: 10px;
+}
+button a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
 }
